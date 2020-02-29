@@ -1,4 +1,4 @@
-console.log("PRINT EXPONENTIAL VALUES");
+// PRINT EXPONENTIAL VALUES
 // Write a function that accepts two numbers and validate that they are numbers.
 // After that, the function should print y exponential values starting from x.
 // For example if we have function(3, 5) The function should print 3 9 27 81 243.
